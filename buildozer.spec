@@ -1,3 +1,4 @@
+
 [app]
 title = My Kivy App
 package.name = mykivyapp
